@@ -1,2 +1,2 @@
 # test-repository
-Reposotory for testing and learning
+Repository for testing and learning
